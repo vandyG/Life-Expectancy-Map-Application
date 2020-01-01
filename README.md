@@ -5,9 +5,10 @@ An interactive map application visualising Life Expectancy data in different cou
 
 ![Image](https://i.imgur.com/FCyRjJ6.png)
 
-> 75  | < 50
------ | -------
-hello | hello2
+First Header  | Second Header
+------------- | -------------
+![75](https://i.imgur.com/F4wcd5p.png)  | ![50](https://i.imgur.com/Lx74auD.png)
+
 ## INSTALLATION
 
 To run this project [Eclipse IDE](https://www.eclipse.org/downloads/) is required.
