@@ -3,7 +3,7 @@ LIFE EXPECTANCY MAP APPLICATION
 
 An interactive map application visualising Life Expectancy data in different countries on a World map.
 
-![Image](https://drive.google.com/open?id=1w5-pb8emLp0wLHUJvaREE-2oeEY3V8fG)
+![Image](https://drive.google.com/file/d/1w5-pb8emLp0wLHUJvaREE-2oeEY3V8fG/view?usp=sharing)
 
 ## INSTALLATION
 
