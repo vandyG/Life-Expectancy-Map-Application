@@ -5,7 +5,9 @@ An interactive map application visualising Life Expectancy data in different cou
 
 ![Image](https://i.imgur.com/FCyRjJ6.png)
 
-First Header  | Second Header
+With the help of two toggle buttons you can highlight differnet countries on the basis of life expectancy.
+
+Greater than 75  | Less than 50
 ------------- | -------------
 ![75](https://i.imgur.com/F4wcd5p.png)  | ![50](https://i.imgur.com/Lx74auD.png)
 
