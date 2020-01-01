@@ -1,3 +1,16 @@
+LIFE EXPECTANCY MAP APPLICATION
+===============================
+
+An interactive map application visualising Life Expectancy data in different countries on a World map.
+
+![Image](https://i.imgur.com/FCyRjJ6.png)
+
+With the help of two toggle buttons you can highlight differnet countries on the basis of life expectancy.
+
+Greater than 75  | Less than 50
+------------- | -------------
+![75](https://i.imgur.com/F4wcd5p.png)  | ![50](https://i.imgur.com/Lx74auD.png)
+
 ## INSTALLATION
 
 To run this project [Eclipse IDE](https://www.eclipse.org/downloads/) is required.
